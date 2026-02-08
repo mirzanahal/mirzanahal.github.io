@@ -25,6 +25,27 @@ Researcher motivated by the question *“why?”*, uncovering the mechanisms of 
 **M.Sc. in Bioinformatics** — Sharif University of Technology (2019–2022)  
 **B.Sc. in Computer Engineering** — University of Tehran (2013–2018)
 
+
+---
+### Selected Publications
+**Nahal Mirzaie**, A. Alipanah, A. Abbasi, A. Farzane, H. Jafarinia,  
+E. Sobhaei, M. Ghaznavi, A. Najafi, M. Soleymani Baghshah, M. H. Rohban (2026)  
+*On the Role of Implicit Regularization of Stochastic Gradient Descent in Group Robustness*  
+**International Conference on Learning Representations (ICLR 2026)**  
+
+**Nahal Mirzaie**, M. Ghaznavi, H. Oyarhoseini, A. Alipanah, *et al.* (2025)  
+*The Silent Helper: How Implicit Regularization Enhances Group Robustness*  
+**High-dimensional Learning Dynamics (ICML Workshop 2025)**  
+
+**Nahal Mirzaie**, M. V. Sanian, M. H. Rohban (2023)  
+*Weakly-Supervised Drug Efficiency Estimation with Confidence Score*  
+**MICCAI 2023**, Springer LNCS 14244, pp. 676–685
+
+**H. Jafarinia**, A. Alipanah, S. Razavi, **Nahal Mirzaie**, M. H. Rohban (2024)  
+*Snuffy: Efficient Whole Slide Image Classifier*  
+**ECCV 2024**
+
+
 ---
 
 ## Research Experience
@@ -36,7 +57,6 @@ Theoretical analysis of Graph Neural Networks, exploring asynchronous message-pa
 
 **Rohban Lab — Sharif University of Technology** (Sep 2019 – Feb 2022)  
 Weakly supervised drug efficiency estimation on the RxRx19a dataset for COVID-19 prophylactic treatment discovery, using single-cell morphological profiling.  
-[GitHub](https://github.com/mirzanahal/luigi-cellprofiler)
 
 **Faghih Lab — University of Tehran** (Aug 2016 – Feb 2018)  
 Parameterized synthesis of self-stabilizing algorithms in symmetric networks with provable closure and deadlock-freedom guarantees.
@@ -64,28 +84,6 @@ Parameterized synthesis of self-stabilizing algorithms in symmetric networks wit
 - **Co-instructor**, Bioinformatics Algorithms — Sharif University of Technology  
 
 ---
-
----
-### Selected Publications
-**Nahal Mirzaie**, A. Alipanah, A. Abbasi, A. Farzane, H. Jafarinia,  
-E. Sobhaei, M. Ghaznavi, A. Najafi, M. Soleymani Baghshah, M. H. Rohban (2026)  
-*On the Role of Implicit Regularization of Stochastic Gradient Descent in Group Robustness*  
-**International Conference on Learning Representations (ICLR 2026)**  
-[OpenReview](https://openreview.net/forum?id=CPdAB7H8mU)
-
-**Nahal Mirzaie**, M. Ghaznavi, H. Oyarhoseini, A. Alipanah, *et al.* (2025)  
-*The Silent Helper: How Implicit Regularization Enhances Group Robustness*  
-**High-dimensional Learning Dynamics (ICML Workshop 2025)**  
-[OpenReview](https://openreview.net/forum?id=VOkC6duTvy)
-
-**Nahal Mirzaie**, M. V. Sanian, M. H. Rohban (2023)  
-*Weakly-Supervised Drug Efficiency Estimation with Confidence Score*  
-**MICCAI 2023**, Springer LNCS 14244, pp. 676–685
-
-**H. Jafarinia**, A. Alipanah, S. Razavi, **Nahal Mirzaie**, M. H. Rohban (2024)  
-*Snuffy: Efficient Whole Slide Image Classifier*  
-**ECCV 2024**
-
 <!-- ---
 
 ### Other Publications
