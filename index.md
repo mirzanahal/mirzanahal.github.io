@@ -83,7 +83,7 @@ Parameterized synthesis of self-stabilizing algorithms in symmetric networks wit
 
 ---
 
-## Academic Service
+## Academic Activities
 - **ICLR 2025 Workshop Organizer** — *Spurious Correlation and Shortcut Learning*  
 - **Co-instructor**, Bioinformatics Algorithms — Sharif University of Technology  
 
