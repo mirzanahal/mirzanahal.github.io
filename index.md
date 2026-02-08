@@ -10,7 +10,7 @@ Sharif University of Technology
 Researcher motivated by the question *“why?”*, uncovering the mechanisms of complex systems through data, learning, and theory.
 
 📄 **[CV (PDF)](resume.pdf)**  
-🔗 [GitHub](https://github.com/mirzanahal) · [LinkedIn](https://www.linkedin.com/in/nahal-mirzaie-535970159/) · ✉️ mirzanahal@gmail.com
+🔗 [GitHub](https://github.com/mirzanahal) · [LinkedIn](https://www.linkedin.com/in/nahal-mirzaie-535970159/) · ✉️ [Gmail](mailto:mirzanahal@gmail.com)
 
 ---
 
