@@ -1,6 +1,7 @@
 ---
 title: Nahal Mirzaie
 ---
+<img src="photo.jpg" width="180" align="left" style="margin-right: 20px; border-radius: 50%;">
 
 # Nahal Mirzaie
 
