@@ -1,9 +1,9 @@
 ---
 title: Nahal Mirzaie
 ---
-<img src="photo.jpg" width="180" align="left" style="margin-right: 20px; border-radius: 50%;">
+<img src="photo.jpg" width="200" align="left" style="margin-right: 20px; border-radius: 50%;">
 
-# Nahal Mirzaie
+## About Me
 
 **PhD Candidate in Artificial Intelligence**  
 Sharif University of Technology  
