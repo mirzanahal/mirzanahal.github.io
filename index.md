@@ -15,9 +15,7 @@ Researcher motivated by the question *“why?”*, uncovering the mechanisms of 
 ---
 
 ## Research Interests
-- Group robustness and worst-group accuracy  
 - Shortcut learning and spurious correlations  
-- Implicit regularization and training dynamics of SGD  
 - Reliable and trustworthy machine learning  
 
 ---
