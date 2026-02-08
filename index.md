@@ -29,18 +29,26 @@ Researcher motivated by the question *“why?”*, uncovering the mechanisms of 
 
 ---
 ### Selected Publications
+
+**On the Role of Implicit Regularization of Stochastic Gradient Descent in Group Robustness**  
+*International Conference on Learning Representations (ICLR 2026)*  
 **Nahal Mirzaie**, A. Alipanah, A. Abbasi, A. Farzane, H. Jafarinia,  
 E. Sobhaei, M. Ghaznavi, A. Najafi, M. Soleymani Baghshah, M. H. Rohban  
-*On the Role of Implicit Regularization of Stochastic Gradient Descent in Group Robustness* **International Conference on Learning Representations (ICLR 2026)**  
 
-**Nahal Mirzaie**, M. Ghaznavi, H. Oyarhoseini, A. Alipanah, E. Sobhaei, A. Abbasi, A. Farzaneh, H. Jafarinia, P. Sharifi Sadeh, A. Boushehrian, M. Soleymani Baghshah, M. H. Rohban  
-*The Silent Helper: How Implicit Regularization Enhances Group Robustness* **High-dimensional Learning Dynamics (ICML Workshop 2025)**  
+**The Silent Helper: How Implicit Regularization Enhances Group Robustness**  
+*High-dimensional Learning Dynamics (ICML Workshop 2025)*  
+**Nahal Mirzaie**, M. Ghaznavi, H. Oyarhoseini, A. Alipanah, E. Sobhaei,  
+A. Abbasi, A. Farzaneh, H. Jafarinia, P. Sharifi Sadeh,  
+A. Boushehrian, M. Soleymani Baghshah, M. H. Rohban  
 
-**H. Jafarinia**, A. Alipanah, S. Razavi, **Nahal Mirzaie**, M. H. Rohban 
-*Snuffy: Efficient Whole Slide Image Classifier*  **ECCV 2024**
+**Snuffy: Efficient Whole Slide Image Classifier**  
+*European Conference on Computer Vision (ECCV 2024)*  
+H. Jafarinia, A. Alipanah, S. Razavi, **Nahal Mirzaie**, M. H. Rohban  
 
-**Nahal Mirzaie**, M. V. Sanian, M. H. Rohban 
-*Weakly-Supervised Drug Efficiency Estimation with Confidence Score* **MICCAI 2023**, Springer LNCS 14244, pp. 676–685
+**Weakly-Supervised Drug Efficiency Estimation with Confidence Score**  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)*  
+**Nahal Mirzaie**, M. V. Sanian, M. H. Rohban  
+Springer LNCS 14244, pp. 676–685
 
 ---
 
