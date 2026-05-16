@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-weakly-supervised-drug-efficiency-estimation-with-confidence-score-application-to-covid-19-drug-discovery-has-accepted-to-miccai-2023",
           title: 'Our paper, Weakly-Supervised Drug Efficiency Estimation with Confidence Score: Application to COVID-19 Drug...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-am-attending-miccai-2023-in-vancouver-with-support-from-the-rise-miccai-travel-award-to-present-our-accepted-work-weakly-supervised-drug-efficiency-estimation-with-confidence-score",
+          title: 'I am attending *MICCAI 2023* in Vancouver with support from the **RISE-MICCAI Travel...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
