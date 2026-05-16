@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our latest paper, *Implicit Regularization of SGD reduces Shortcut Learning*, has been accepted to **ICLR 2026**.
+Our paper, *Implicit Regularization of SGD reduces Shortcut Learning*, is accepted to **ICLR 2026**.
