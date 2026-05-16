@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-weakly-supervised-drug-efficiency-estimation-with-confidence-score-application-to-covid-19-drug-discovery-has-accepted-to-miccai-2023",
           title: 'Our paper, Weakly-Supervised Drug Efficiency Estimation with Confidence Score: Application to COVID-19 Drug...',
+          description: "",
+          section: "News",},{id: "news-i-am-attending-miccai-2023-in-vancouver-with-support-from-the-rise-miccai-travel-award-to-present-our-accepted-work-weakly-supervised-drug-efficiency-estimation-with-confidence-score-i-attended-miccai-2023-in-vancouver-canada-supported-by-the-rise-miccai-travel-award-usd-3-000-to-present-our-paper-weakly-supervised-drug-efficiency-estimation-with-confidence-score-application-to-covid-19-drug-discovery-miccai-2023-stanley-park-tour",
+          title: 'I am attending MICCAI 2023 in Vancouver with support from the RISE-MICCAI Travel...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
