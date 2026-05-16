@@ -59,6 +59,7 @@ search_enabled: true
 socials_in_search: true
 posts_in_search: true
 bib_search: true
+selected_papers: true
 
 # Dimensions
 max_width: 930px
