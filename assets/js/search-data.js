@@ -405,7 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-weakly-supervised-drug-efficiency-estimation-with-confidence-score-application-to-covid-19-drug-discovery-has-accepted-to-miccai-2023",
+            },},{id: "news-our-paper-weakly-supervised-drug-efficiency-estimation-with-confidence-score-application-to-covid-19-drug-discovery-has-been-accepted-to-miccai-2023",
           title: 'Our paper, Weakly-Supervised Drug Efficiency Estimation with Confidence Score: Application to COVID-19 Drug...',
           description: "",
           section: "News",},{id: "news-i-am-attending-miccai-2023-in-vancouver",
