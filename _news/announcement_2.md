@@ -5,7 +5,7 @@ inline: false
 related_posts: false
 ---
 
-I am attending MICCAI 2023 in Vancouver with support from the RISE-MICCAI Travel Award to present our accepted work, *Weakly-Supervised Drug Efficiency Estimation with Confidence Score*.
+I am attending *MICCAI 2023* in Vancouver with support from the **RISE-MICCAI Travel Award** to present our accepted work, *Weakly-Supervised Drug Efficiency Estimation with Confidence Score*.
 
 ---
 I attended [MICCAI 2023](https://conferences.miccai.org/2023/) in Vancouver, Canada, supported by the **RISE-MICCAI Travel Award** (USD 3,000), to present our paper:
