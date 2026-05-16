@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Artificial Intelligence</a>. Sharif University of Technology. Expected to graduate in January 2027.
+subtitle: <a href='#'>PhD Artificial Intelligence</a>. Sharif University of Technology.<br>Expected to graduate in January 2027.
 
 profile:
   align: right
