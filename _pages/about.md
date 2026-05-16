@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Artificial Intelligence</a>. Sharif University of Technology.
+subtitle: <a href='#'>PhD Artificial Intelligence</a>. Sharif University of Technology. Expected to graduate in January 2027.
 
 profile:
   align: right
@@ -24,4 +24,4 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Interested in understanding why deep learning models fail, and how to make them more robust, fair, and efficient for biomedical applications. Currently a PhD candidate in AI at [Sharif University of Technology](https://en.sharif.ir) under the supervision of Dr. [Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en), investigating how inductive biases shape shortcut learning and reliance on spurious features. Expected to graduate in January 2027.
+Interested in understanding why deep learning models fail, and how to make them more robust, fair, and efficient for biomedical applications. Currently a PhD candidate in AI at [Sharif University of Technology](https://en.sharif.ir) under the supervision of Dr. [Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en), investigating how inductive biases shape shortcut learning and reliance on spurious features. 
