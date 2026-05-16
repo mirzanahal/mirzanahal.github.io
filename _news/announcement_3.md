@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, *Snuffy: Efficient Whole Slide Image Classifier*, has been accepted to ECCV 2024.
+Our paper, *Snuffy: Efficient Whole Slide Image Classifier*, has been accepted to **ECCV 2024**.
