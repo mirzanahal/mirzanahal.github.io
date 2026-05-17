@@ -154,13 +154,15 @@ cv:
     Academic Activities:
       - location: Singapore
         position: ICLR Workshop Co-organizer
-        date: 2025
+        start_date: 2025
+        end_date: 2025
         summary: "Spurious Correlation and Shortcut Learning: Foundations and Solutions Workshop."
         url: "https://scslworkshop.github.io"
 
       - location: Iran
         position: "Co-instructor, Bioinformatics Algorithms"
-        date: 2024
+        start_date: 2024
+        end_date: 2024
         summary: Sharif University of Technology
 
     Skills:
