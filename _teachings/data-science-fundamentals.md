@@ -1,97 +1,42 @@
 ---
 layout: course
-title: Data Science Fundamentals
+title: Bioinformatics Algorithms
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
+instructor: Prof. Somayeh Koohi and Nahal Mirzaie
 year: 2024
 term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
-schedule:
-  - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+location: Department of Computer Engineering, Sharif University of Technology
+time: Saturday and Mondays, 10:30:00 AM - 12:00:00 PM
 ---
 
-## Course Overview
+## Course Description
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course introduces the algorithmic techniques underlying modern bioinformatics. Topics span sequence analysis, genome assembly, gene expression, and proteomics. The course is inspired by the [Bioinformatics Algorithms](https://www.bioinformaticsalgorithms.org/) textbook by Compeau and Pevzner, as well as the UCSD Bioinformatics Specialization.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+## Topics Covered
 
-## Prerequisites
+- **Sequence Alignment** — pairwise and multiple sequence alignment
+- **Genome Assembly** — De Bruijn graphs, Burrows-Wheeler Transform (BWT)
+- **Expectation Maximization** — motif finding, Lloyd's algorithm, clustering
+- **Gene Expression** — transcriptomics and expression analysis
+- **Metagenomics** — metagenomics tools and analysis pipelines
+- **Proteomics** — peptide sequencing and protein identification
+- **Approximate Nearest Neighbors** — Locality Sensitive Hashing (LSH)
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+## References
 
-## Textbooks
+- Compeau, P. & Pevzner, P. *Bioinformatics Algorithms: An Active Learning Approach*. Active Learning Publishers.
+- Mäkinen, V., Belazzougui, D., Cunial, F., & Tomescu, A. I. *Genome-Scale Algorithm Design*. Cambridge University Press, 2015.
+- Mandoiu, I. & Zelikovsky, A. *Bioinformatics Algorithms: Techniques and Applications*. Wiley-Interscience.
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+## Slides
 
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+| Topic | Slides |
+|-------|--------|
+| Sequence Alignment | [PDF](/assets/pdf/Alignment.pdf) |
+| Genome Assembly | [PDF](/assets/pdf/Assembely.pdf) |
+| Expectation Maximization | [PDF](/assets/pdf/ExpectationMaximization.pdf) |
+| Gene Expression | [PDF](/assets/pdf/GeneExpression.pdf) |
+| Metagenomics | [PDF](/assets/pdf/Metagenomics.pdf) |
+| Metagenomics Tools | [PDF](/assets/pdf/metagenomicstools.pdf) |
+| Proteomics | [PDF](/assets/pdf/Proteomics.pdf) |
