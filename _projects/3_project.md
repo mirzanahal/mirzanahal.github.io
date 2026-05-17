@@ -2,26 +2,9 @@
 layout: page
 title: Snuffy for Whole Slide Images
 description: Biologically-inspired attention masks for gigapixel pathology.
-img: assets/img/snuffy_sp.jpg
+img: assets/img/snuffy_sp.png
 importance: 3
 category: academic
-related_publications: true
----
-
-As part of my research at the Rohban Lab, we developed **Snuffy**, an efficient Whole Slide Image (WSI) classifier published at ECCV 2024. Analyzing WSIs is notoriously difficult because a single slide can contain billions of pixels. 
-
-Traditional Multiple Instance Learning (MIL) methods often sub-sample the image or treat tissue patches as completely independent entities, ignoring the spatial structure. Snuffy solves this by using spatial convolutions to merge patches, drastically reducing the sequence length while retaining 100% of the tissue data.
-
-My primary contribution to this project was bridging the gap between tumor biology and transformer mathematics—specifically, designing the new attention mask and formulating its theoretical proof.
-
-
----
-layout: page
-title: Snuffy for Whole Slide Images
-description: Universal approximation sparse transformers for gigapixel pathology.
-img: assets/img/snuffy_sp.jpg
-importance: 1
-category: work
 related_publications: true
 ---
 
@@ -45,17 +28,6 @@ Inspired by the inherent characteristics of WSI analysis, we proposed the **Snuf
 3. **Diagonal Attentions (k):** This ensures that even if contextual attention embeddings are not computed within the self-attention framework for a specific patch, the patch's original embedding remains preserved in the output.
 
 
-
-### The Proof: Universal Approximation 
-
-My core theoretical contribution was demonstrating that our sparse transformer serves as a **universal approximator** for sequence-to-sequence functions. 
-
-To satisfy the necessary mathematical criteria, we had to demonstrate the existence of a Hamiltonian path in the graph corresponding to the union of our Snuffy sparsity patterns. Drawing on graph theory (specifically, that a graph where the maximum independent set is less than or equal to its chromatic number has a Hamiltonian cycle), we proved that covering half of the patches in all layers satisfies these properties and leads to the formation of a Hamiltonian path.
-
-I modeled this observation as a generalized version of the **coupon collector problem**, where the goal is to collect half of the "coupons" (patches) in a uniform group setting. 
-
-Ultimately, the proof establishes that our transformer does not necessitate Ω̃(n) layers as suggested in previous studies. Instead, it requires only **O(n log 2 / λ_r)** layers to ensure universal approximation with high probability, achieving the most stringent probabilistic limit of the layer count to date.
-
 <div class="row justify-content-center">
     <div class="col-md-10 mt-3 mt-md-0">
         {% include figure.liquid 
@@ -70,6 +42,17 @@ Ultimately, the proof establishes that our transformer does not necessitate Ω̃
     <b>Figure 1.</b> <b>Overview of the proposed method.</b> 
    a) The WSIs are segmented into 256 × 256 patches at 20X magnification, followed by embedding extraction via a pre-trained ViT. Subsequently, these embeddings are inputted into the Snuffy for patch and WSI classification. (b) The connectivity matrix illustrates the Snuffy attention spar- sity patterns, with Class-related Global Attentions, highlighted in darker colors either vertical or horizontal (the darker the more important), Diagonal Attentions depicted with pink, and Random Global Attentions shown in the lightest pink.
 </div>
+
+### The Proof: Universal Approximation 
+
+My core theoretical contribution was demonstrating that our sparse transformer serves as a **universal approximator** for sequence-to-sequence functions. 
+
+To satisfy the necessary mathematical criteria, we had to demonstrate the existence of a Hamiltonian path in the graph corresponding to the union of our Snuffy sparsity patterns. Drawing on graph theory (specifically, that a graph where the maximum independent set is less than or equal to its chromatic number has a Hamiltonian cycle), we proved that covering half of the patches in all layers satisfies these properties and leads to the formation of a Hamiltonian path.
+
+I modeled this observation as a generalized version of the **coupon collector problem**, where the goal is to collect half of the "coupons" (patches) in a uniform group setting. 
+
+Ultimately, the proof establishes that our transformer does not necessitate Ω̃(n) layers as suggested in previous studies. Instead, it requires only **O(n log 2 / λ_r)** layers to ensure universal approximation with high probability, achieving the most stringent probabilistic limit of the layer count to date.
+
  
 ### Impact and Results
 
