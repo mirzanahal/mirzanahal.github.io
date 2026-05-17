@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Nahal Mirzaie",
+    "label": "PhD Candidate in Artificial Intelligence",
+    "image": "",
+    "email": "mirzanahal@gmail.com",
+    "phone": "+989123210564",
+    "url": "https://mirzanahal.github.io",
+    "summary": "Robust AI for Healthcare, Generalization, Group Robustness and Shortcut Learning",
+    "location": {
+      "city": "Tehran",
+      "countryCode": "IR",
+      "region": "Iran"
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "area": "Artificial Intelligence",
+      "studyType": "Ph.D.",
+      "startDate": "2022",
+      "endDate": "2027 (expected)"
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "area": "Bioinformatics",
+      "studyType": "M.Sc.",
+      "startDate": "2019",
+      "endDate": "2022"
+    },
+    {
+      "institution": "University of Tehran",
+      "location": "Tehran, Iran",
+      "area": "Computer Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2013",
+      "endDate": "2018"
+    }
+  ],
+  "work": [
+    {
+      "name": "Tapsi",
+      "position": "Data Scientist",
+      "startDate": "2020-10",
+      "endDate": "2022-04",
+      "highlights": [
+        "Fraud Detection: Developed and maintained machine learning pipelines for automatic detection of fraudulent drivers, identifying commission evasion and fake rides generated through GPS spoofing.",
+        "Passenger Campaign Optimization: Built and deployed tools to optimize passenger marketing campaigns, maximizing return on investment (ROI) as a key performance indicator (KPI)."
+      ]
+    },
+    {
+      "name": "Pardis Gene",
+      "position": "Bioinformatician, supervised by Prof. Sharifi Zarchi",
+      "startDate": "2018-12",
+      "endDate": "2020-08",
+      "highlights": [
+        "Rare Disease Genomics: Designed and implemented algorithms to identify causal genetic variations (SNVs, CNVs, and structural variants) using parent–child whole genome and exome sequencing data integrated with clinical phenotypes and physician diagnoses.",
+        "Precision Oncology: Developed automated pipelines for detecting somatic variants (SNPs, indels, CNAs, fusions, and MSI) from paired tumor–normal sequencing data, and generated personalized drug recommendations based on actionable alterations."
+      ]
+    }
+  ],
+  "research": [
+    {
+      "name": "Rohban Lab, Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "position": "PhD Researcher",
+      "startDate": "2022-09",
+      "endDate": "present",
+      "summary": "Studying how implicit inductive biases affect training dynamics and Gradient Flow, enhancing Group Robustness by mitigating Shortcut Learning and reducing reliance on Spurious Correlations."
+    },
+    {
+      "name": "Vikas Lab, Aalto University",
+      "location": "Espoo, Finland",
+      "position": "Visiting Researcher",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "Studied the theoretical foundations of Graph Neural Networks (GNNs), exploring asynchronous message-passing mechanisms that may extend their expressivity beyond the classical 1-Weisfeiler–Lehman (1-WL) limit."
+    },
+    {
+      "name": "Rohban Lab, Sharif University of Technology",
+      "location": "Tehran, Iran",
+      "position": "M.Sc. Researcher",
+      "startDate": "2019-09",
+      "endDate": "2022-02",
+      "summary": "Used the RxRx19a dataset (high-throughput five-channel fluorescent microscopy images) to estimate hit scores of drug–dose combinations against SARS-CoV-2. Extracted cellular morphological features at the single-cell level, aggregated them into treatment-level profiles, and developed a scoring algorithm reflecting antiviral efficacy."
+    },
+    {
+      "name": "Faghih Lab, University of Tehran",
+      "location": "Tehran, Iran",
+      "position": "Undergraduate Researcher",
+      "startDate": "2016-08",
+      "endDate": "2018-02",
+      "summary": "Designed a parameterized synthesis technique for self-stabilizing algorithms in symmetric networks, developing tight cutoffs that guarantee closure within legitimate states and deadlock-freedom outside them."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICLR 2025",
+      "position": "Workshop Co-organizer",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": "Spurious Correlation and Shortcut Learning: Foundations and Solutions Workshop."
+    },
+    {
+      "organization": "Sharif University of Technology",
+      "position": "Co-instructor, Bioinformatics Algorithms",
+      "startDate": "2024",
+      "endDate": "2024",
+      "summary": "Course inspired by Bioinformatics Algorithms by Compeau and Pevzner."
+    }
+  ],
+  "awards": [
+    {
+      "title": "RISE-MICCAI Travel Award",
+      "date": "2023",
+      "awarder": "MICCAI 2023, Vancouver, Canada",
+      "summary": "Fully funded travel award (USD 3,000)."
+    },
+    {
+      "title": "Honorable Mention",
+      "date": "2015",
+      "awarder": "ICPC Asia Regional Contest",
+      "summary": "Iran."
+    }
+  ],
+  "skills": [
+    {
+      "name": "ML/DL",
+      "keywords": ["PyTorch", "scikit-learn", "SciPy"]
+    },
+    {
+      "name": "Bioinformatics",
+      "keywords": ["CellProfiler", "GATK"]
+    },
+    {
+      "name": "Dev Tools",
+      "keywords": ["Git", "Linux", "WandB"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent (TOEFL iBT 103)"
+    }
+  ]
+}
