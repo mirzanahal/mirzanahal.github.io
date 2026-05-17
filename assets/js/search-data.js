@@ -444,7 +444,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-data-science-at-tapsi",
           title: 'Data Science at Tapsi',
-          description: "Graph-based fraud detection and campaign optimization at scale.",
+          description: "Fraud detection and campaign optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "teachings-data-science-fundamentals",
