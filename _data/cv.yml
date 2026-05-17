@@ -152,17 +152,16 @@ cv:
         url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2018.29"
 
     Academic Activities:
-      - location: ICLR 2025 (Singapore)
-        position: Workshop Co-organizer
-        start_date: 2025
-        end_date: 2025
+      - location: Singapore
+        position: ICLR Workshop Co-organizer
+        date: 2025
         summary: "Spurious Correlation and Shortcut Learning: Foundations and Solutions Workshop."
+        url: "https://scslworkshop.github.io"
 
-      - location: Sharif University of Technology
+      - location: Iran
         position: "Co-instructor, Bioinformatics Algorithms"
-        start_date: 2024
-        end_date: 2024
-        summary: "Course inspired by Bioinformatics Algorithms by Compeau and Pevzner."
+        date: 2024
+        summary: Sharif University of Technology
 
     Skills:
       - name: ML/DL
