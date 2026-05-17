@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science at Tapsi
-description: Graph-based fraud detection and campaign optimization at scale.
+description: Fraud detection and campaign optimization
 img: assets/img/tapsi-logo.jpg
 importance: 2
 category: work
