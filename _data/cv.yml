@@ -84,15 +84,15 @@ cv:
           - "Precision Oncology: Developed automated pipelines for detecting somatic variants (SNPs, indels, CNAs, fusions, and MSI) from paired tumor–normal sequencing data, and generated personalized drug recommendations based on actionable alterations."
 
     Awards:
-      - title: RISE-MICCAI Travel Award
+      - title: RISE-MICCAI 2023 Travel Award
         date: 2023
-        awarder: "MICCAI 2023, Vancouver, Canada"
+        location: "Vancouver, Canada"
         summary: "Fully funded travel award (USD 3,000)."
 
       - title: Honorable Mention
         date: 2015
         awarder: ICPC Asia Regional Contest
-        summary: Iran.
+        location: Tehran, Iran.
 
     Publications:
       - title: "On the Role of Implicit Regularization of Stochastic Gradient Descent in Group Robustness"
@@ -152,13 +152,13 @@ cv:
         url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2018.29"
 
     Academic Activities:
-      - company: ICLR 2025
+      - location: ICLR 2025 (Singapore)
         position: Workshop Co-organizer
         start_date: 2025
         end_date: 2025
         summary: "Spurious Correlation and Shortcut Learning: Foundations and Solutions Workshop."
 
-      - company: Sharif University of Technology
+      - location: Sharif University of Technology
         position: "Co-instructor, Bioinformatics Algorithms"
         start_date: 2024
         end_date: 2024
@@ -179,4 +179,4 @@ cv:
         summary: Native speaker
 
       - name: English
-        summary: "Fluent (TOEFL iBT 103)"
+        summary: "Fluent (TOEFL iBT 102)"
