@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: Data Science at Tapsi
+description: Graph-based fraud detection and campaign optimization at scale.
+img: assets/img/tapsi-logo.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Between October 2020 and April 2022, I worked as a Data Scientist at Tapsi, one of the leading ride-hailing platforms. Working in the fast-paced mobility sector meant dealing with massive, continuous streams of data—the platform processed approximately 500,000 rides per day. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+My work centered on building robust machine learning pipelines to protect the platform's integrity and optimize its growth strategies.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Fraud Detection
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+In ride-hailing, malicious actors constantly find new ways to exploit the system. I developed and maintained machine learning pipelines dedicated to the automatic detection of fraudulent drivers. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+To achieve this, I profiled both driver and passenger characteristics based on their ride history and referral information. I mapped these profiles into a complex network graph, analyzing the connections and behavioral patterns between users. By leveraging these graph-based profiles, the model could accurately estimate whether a given ride was fraudulent. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+This approach was highly effective at identifying sophisticated scams, particularly:
+* **Commission Evasion:** Detecting coordinated efforts between drivers and passengers to bypass platform fees.
+* **GPS Spoofing:** Identifying fake rides generated through manipulated location data.
 
-{% raw %}
+### Passenger Campaign Optimization
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+In addition to fraud detection, I contributed to the platform's growth and marketing efficiency, specifically to optimize passenger marketing campaigns. 
+By analyzing user behavior, ride frequency, and churn probability, we targeted campaigns more intelligently, successfully maximizing Return on Investment (ROI) as our primary key performance indicator (KPI).
