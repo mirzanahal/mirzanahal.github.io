@@ -457,9 +457,9 @@ ninja.data = [{
           description: "Automated pipelines for precision oncology and rare disease diagnostics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-data-science-at-tapsi",
+          title: 'Data Science at Tapsi',
+          description: "Graph-based fraud detection and campaign optimization at scale.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
