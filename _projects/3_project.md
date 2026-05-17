@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Snuffy for Whole Slide Images
-description: Biologically-inspired localized attention masks for gigapixel pathology.
-img: assets/img/snuffy_thumbnail.jpg
+description: Biologically-inspired attention masks for gigapixel pathology.
+img: assets/img/snuffy_sp.jpg
 importance: 3
 category: academic
 related_publications: true
