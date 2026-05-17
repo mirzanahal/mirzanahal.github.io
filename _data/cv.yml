@@ -114,36 +114,42 @@ cv:
           - "H. Jafarinia, A. Alipanah, S. Razavi, N. Mirzaie, M.H. Rohban"
         publisher: "ECCV 2024, Springer LNCS"
         releaseDate: 2025
+        url: "https://link.springer.com/chapter/10.1007/978-3-031-73024-5_15"
 
       - title: "Navigating the MIL Trade-Off: Flexible Pooling for Whole Slide Image Classification"
         authors:
           - "H. Jafarinia, D. Hamdi, A. Alamdar, E. Zahiri, S. Vafaie Tabar, A. Alipanah, N. Mirzaie, S. Razavi, A. Najafi, M.H. Rohban"
         publisher: "NeurIPS 2025"
         releaseDate: 2025
+        url: "https://proceedings.neurips.cc/paper_files/paper/2025/file/8bacb23a4f6b6f52dd5c81c15b4e4ac5-Paper-Conference.pdf"
 
       - title: "Weakly-Supervised Drug Efficiency Estimation with Confidence Score: Application to COVID-19 Drug Discovery"
         authors:
           - "N. Mirzaie, M.V. Sanian, M.H. Rohban"
         publisher: "MICCAI 2023, Springer LNCS 14244"
         releaseDate: 2023
+        url: "https://link.springer.com/chapter/10.1007/978-3-031-43993-3_65"
 
       - title: "MILFORMER: Weighted Dual Stream Class Centered Random Attention Multiple Instance Learning for Whole Slide Image Classification"
         authors:
           - "H. Jafarinia, D. Hamdi, A. Alipanah, N. Mirzaie, M.H. Rohban"
         publisher: "AI for Health Equity and Fairness 2024, Springer Nature"
         releaseDate: 2024
+        url: "https://doi.org/10.1007/978-3-031-63592-2_6"
 
       - title: "Parameterized Synthesis of Self-Stabilizing Protocols in Symmetric Networks"
         authors:
           - "N. Mirzaie, F. Faghih, S. Jacobs, B. Bonakdarpour"
         publisher: Acta Informatica
         releaseDate: 2020
+        url: "https://publications.cispa.de/articles/journal_contribution/Parameterized_synthesis_of_self-stabilizing_protocols_in_symmetric_networks/24612582"
 
       - title: "Parameterized Synthesis of Self-Stabilizing Protocols in Symmetric Rings"
         authors:
           - "N. Mirzaie, F. Faghih, S. Jacobs, B. Bonakdarpour"
         publisher: OPODIS 2019
         releaseDate: 2019
+        url: "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2018.29"
 
     Academic Activities:
       - company: ICLR 2025
