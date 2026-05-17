@@ -3,7 +3,7 @@ layout: page
 title: COVID-19 Drug Efficiency Estimation
 description: Weakly-supervised hit discovery with confidence scoring using RxRx19a HTS data.
 img: assets/img/rna.jpg
-importance: 1
+importance: 2
 category: academic
 related_publications: true
 ---
