@@ -447,8 +447,8 @@ ninja.data = [{
           description: "Fraud detection and campaign optimization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
+            },},{id: "teachings-bioinformatics-algorithms",
+          title: 'Bioinformatics Algorithms',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
