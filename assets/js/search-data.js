@@ -422,9 +422,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-implicit-regularization-of-sgd-reduces-shortcut-learning-is-accepted-to-iclr-2026",
           title: 'Our paper, Implicit Regularization of SGD reduces Shortcut Learning, is accepted to ICLR...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-covid-19-drug-efficiency-estimation",
+          title: 'COVID-19 Drug Efficiency Estimation',
+          description: "Weakly-supervised hit discovery with confidence scoring using RxRx19a HTS data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
