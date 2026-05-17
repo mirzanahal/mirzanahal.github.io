@@ -432,9 +432,9 @@ ninja.data = [{
           description: "Mitigating spurious correlations by tuning optimization inductive biases.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-snuffy-for-whole-slide-images",
+          title: 'Snuffy for Whole Slide Images',
+          description: "Biologically-inspired localized attention masks for gigapixel pathology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
