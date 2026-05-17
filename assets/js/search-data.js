@@ -434,7 +434,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-snuffy-for-whole-slide-images",
           title: 'Snuffy for Whole Slide Images',
-          description: "Biologically-inspired localized attention masks for gigapixel pathology.",
+          description: "Biologically-inspired attention masks for gigapixel pathology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
