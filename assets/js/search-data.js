@@ -437,11 +437,6 @@ ninja.data = [{
           description: "Biologically-inspired attention masks for gigapixel pathology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-precision-genomics-at-pardisgene",
           title: 'Precision Genomics at PardisGene',
           description: "Automated pipelines for precision oncology and rare disease diagnostics.",
