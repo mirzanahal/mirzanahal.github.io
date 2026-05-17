@@ -4,7 +4,7 @@ title: Implicit Regularization & Shortcut Learning
 description: Mitigating spurious correlations by tuning optimization inductive biases.
 img: assets/img/publication_preview/implicit.jpg
 importance: 1
-category: work
+category: academic
 related_publications: true
 ---
 
