@@ -10,21 +10,6 @@ related_publications: false
 
 During the summer of 2022, I conducted research at the Vikas Lab at Aalto University (Espoo, Finland) under supervision of Prof. Vikas K. Garg. Our work focused on exploring the theoretical foundations of Graph Neural Networks (GNNs), specifically investigating how altering the timing of message-passing mechanism could fundamentally increase a network's expressivity.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/standard_gnn.jpg" title="Synchronous MP" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/over_smoothing.jpg" title="Over-smoothing" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/isomorphic_graphs.jpg" title="1-WL Limit" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The limitations of standard GNNs: Synchronous message passing often leads to over-smoothing or over-squashing as layers increase, and their expressivity is mathematically bounded.
-</div>
-
 ### The Problem: Limitations of Standard GNNs
 
 Graph Neural Networks traditionally rely on synchronous Message Passing (MP), where all nodes in a graph update their hidden states simultaneously based on their neighbors' messages. While effective, this approach has strict theoretical limitations:
