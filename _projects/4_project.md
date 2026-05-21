@@ -8,7 +8,7 @@ category: proof of concepts
 related_publications: false
 ---
 
-During the summer of 2022, I conducted research at the Vikas Lab at Aalto University (Espoo, Finland) under supervision of Prof. Vikas K. Garg. Our work focused on exploring the theoretical foundations of Graph Neural Networks (GNNs), specifically investigating how altering the timing of message-passing mechanism could fundamentally increase a network's expressivity.
+During the summer of 2022, I conducted research at the Vikas Lab at Aalto University (Espoo, Finland) under supervision of Prof. [Vikas K. Garg](https://scholar.google.com/citations?user=JFT_m9kAAAAJ&hl=en). Our work focused on exploring the theoretical foundations of Graph Neural Networks (GNNs), specifically investigating how altering the timing of message-passing mechanism could fundamentally increase a network's expressivity.
 
 ### The Problem: Limitations of Standard GNNs
 
