@@ -437,6 +437,11 @@ ninja.data = [{
           description: "Biologically-inspired attention masks for gigapixel pathology.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-asynchronous-graph-neural-networks",
+          title: 'Asynchronous Graph Neural Networks',
+          description: "Extending GNN expressivity beyond the classical 1-WL limit using Asynchronous Message Passing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-precision-genomics-at-pardisgene",
           title: 'Precision Genomics at PardisGene',
           description: "Automated pipelines for precision oncology and rare disease diagnostics.",
