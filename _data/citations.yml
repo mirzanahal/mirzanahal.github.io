@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-07-27'
 papers:
   7IaTpQQAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -32,7 +32,7 @@ papers:
   7IaTpQQAAAAJ:u5HHmVD_uO8C:
     citations: 4
     title: Parameterized synthesis of self-stabilizing protocols in symmetric rings
-    year: '2019'
+    year: '2018'
   7IaTpQQAAAAJ:zYLM7Y9cAGgC:
     citations: 1
     title: 'Navigating the mil trade-off: Flexible pooling for whole slide image classification'
